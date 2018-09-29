@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1493305004 source:d:\prathamesh\programs\c\railway reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	<string.h>
+
+1493305004 source:e:\prathamesh\programs\c and c++\railway reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<mysql.h>
+	<string.h>
+
